@@ -1,4 +1,4 @@
-📊 HR Analytics Dashboard – Built in Power BI
+📊 HR Analytics Dashboard – Power BI
 
 Thrilled to share my latest dashboard project focused on HR Analytics, where I analyzed employee attrition and workforce trends to identify key business challenges and opportunities.
 
