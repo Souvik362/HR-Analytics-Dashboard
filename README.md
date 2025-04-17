@@ -7,9 +7,13 @@ To understand the patterns behind employee attrition and help HR teams make data
 
 📌 Key Metrics & Insights Explored:
 🔹 Attrition Rate: 16.1% across 1470 employees
+
 🔹 Attrition by Age, Education & Salary Slab – Identified vulnerable groups
+
 🔹 Job Role vs Job Satisfaction – Uncovered correlations impacting turnover
+
 🔹 Attrition by Tenure – Spotted early exits and long-term patterns
+
 🔹 Gender & Department Filters – For segment-wise HR insights
 
 📈 Visuals Used:
