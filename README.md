@@ -6,6 +6,7 @@ Thrilled to share my latest dashboard project focused on HR Analytics, where I a
 To understand the patterns behind employee attrition and help HR teams make data-driven retention strategies.
 
 📌 Key Metrics & Insights Explored:
+
 🔹 Attrition Rate: 16.1% across 1470 employees
 
 🔹 Attrition by Age, Education & Salary Slab – Identified vulnerable groups
@@ -25,8 +26,11 @@ Power BI • DAX • Data Modeling • Visualization • HR Analytics
 
 💡 Impact:
 This dashboard can help HR teams:
+
 ✅ Predict attrition hotspots
+
 ✅ Improve job satisfaction & engagement
+
 ✅ Make informed decisions in workforce planning
 
 🚀 Let me know your feedback or thoughts!
