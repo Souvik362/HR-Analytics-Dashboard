@@ -1,41 +1,53 @@
-**📊 HR Analytics Dashboard – Power BI**
+**📊 HR Analytics Dashboard – Power BI Project**
 
-Thrilled to share my latest dashboard project focused on HR Analytics, where I analyzed employee attrition and workforce trends to identify key business challenges and opportunities.
+**📌 Project Overview**
 
-**🎯 Objective:**
+This HR Analytics Dashboard provides a detailed, data-driven analysis of employee attrition across various dimensions such as role, salary, education, age, and job satisfaction. It's designed to support HR teams in identifying key trends and making informed retention strategies.
 
-To understand the patterns behind employee attrition and help HR teams make data-driven retention strategies.
+**It helps in understanding:**
 
-📌 Key Metrics & Insights Explored:
+🔹 Attrition by Age, Gender, and Education
 
-🔹 Attrition Rate: 16.1% across 1470 employees
+🔹 High-Risk Job Roles & Salary Slabs
 
-🔹 Attrition by Age, Education & Salary Slab – Identified vulnerable groups
+🔹 Employee Satisfaction Distribution
 
-🔹 Job Role vs Job Satisfaction – Uncovered correlations impacting turnover
+🔹 Tenure-based Attrition Trends
 
-🔹 Attrition by Tenure – Spotted early exits and long-term patterns
+🔹 Gender-wise Attrition Patterns
 
-🔹 Gender & Department Filters – For segment-wise HR insights
-**
-📈 Visuals Used:**
+**🚀 Features & Insights**
 
-✔️ Pie charts, bar graphs, heatmaps, and line charts for intuitive storytelling
+✅ Overall Attrition Rate: 16.1%
 
-✔️ Filter-based interactivity for deeper analysis by department and gender
+✅ Most Affected Age Group: 26–35
 
-**🛠️ Tools & Skills Used:**
+✅ Top Job Roles with Attrition: Lab Technician, Sales Executive
 
-Power BI • DAX • Data Modeling • Visualization • HR Analytics
+✅ Highest Attrition by Education: Life Sciences (38%)
 
-**💡 Impact:**
+✅ Salary Slab with Highest Attrition: < 5k
 
-This dashboard can help HR teams:
+✅ Employees mostly leaving within 1 year of joining
 
-✅ Predict attrition hotspots
+**🛠 Tools & Technologies Used**
 
-✅ Improve job satisfaction & engagement
+🔹 Power BI – Interactive dashboard design
 
-✅ Make informed decisions in workforce planning
+🔹 DAX – For calculated fields & trend analysis
 
-🚀 Let me know your feedback or thoughts!
+🔹 Excel – Data preparation & transformation
+
+**📂 Dataset Information**
+
+Employee Info – Age, gender, education, and tenure
+
+Compensation Data – Salary brackets
+
+Satisfaction Metrics – Ratings from 1 to 5
+
+Job Roles – From research to sales and operations
+
+📣 Open to roles in Data Analytics, Business Intelligence, or People Analytics. Let’s connect if you're hiring or working on similar projects!
+
+#PowerBI #HRAnalytics #PeopleAnalytics #DashboardDesign #DataStorytelling #AttritionAnalysis #DataVisualization #DAX #RecruitmentTrends #DataDrivenHR #LinkedInTalent #OpenToWork
