@@ -1,8 +1,9 @@
-📊 HR Analytics Dashboard – Power BI
+**📊 HR Analytics Dashboard – Power BI**
 
 Thrilled to share my latest dashboard project focused on HR Analytics, where I analyzed employee attrition and workforce trends to identify key business challenges and opportunities.
 
-🎯 Objective:
+**🎯 Objective:**
+
 To understand the patterns behind employee attrition and help HR teams make data-driven retention strategies.
 
 📌 Key Metrics & Insights Explored:
@@ -16,15 +17,19 @@ To understand the patterns behind employee attrition and help HR teams make data
 🔹 Attrition by Tenure – Spotted early exits and long-term patterns
 
 🔹 Gender & Department Filters – For segment-wise HR insights
+**
+📈 Visuals Used:**
 
-📈 Visuals Used:
 ✔️ Pie charts, bar graphs, heatmaps, and line charts for intuitive storytelling
+
 ✔️ Filter-based interactivity for deeper analysis by department and gender
 
-🛠️ Tools & Skills Used:
+**🛠️ Tools & Skills Used:**
+
 Power BI • DAX • Data Modeling • Visualization • HR Analytics
 
-💡 Impact:
+**💡 Impact:**
+
 This dashboard can help HR teams:
 
 ✅ Predict attrition hotspots
